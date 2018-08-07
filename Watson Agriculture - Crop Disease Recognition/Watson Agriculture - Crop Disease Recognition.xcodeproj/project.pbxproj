@@ -132,8 +132,8 @@
 			buildPhases = (
 				3B4F9A002119157200E09207 /* Sources */,
 				3B4F9A0B2119157200E09207 /* Frameworks */,
-				3B4F9A0D2119157200E09207 /* Resources */,
 				3B4F9A112119157200E09207 /* Embed Frameworks */,
+				3B4F9A0D2119157200E09207 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -342,7 +342,7 @@
 				);
 				INFOPLIST_FILE = "$(SRCROOT)/Watson Agriculture - Crop Disease Recognition.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.ibm.watson.developer-cloud.watson-agriculture-crop-disease-recognition";
+				PRODUCT_BUNDLE_IDENTIFIER = com.ibm.watson.developercloud.watsonagriculturecropdiseaserecognition;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -362,7 +362,7 @@
 				);
 				INFOPLIST_FILE = "$(SRCROOT)/Watson Agriculture - Crop Disease Recognition.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.ibm.watson.developer-cloud.watson-agriculture-crop-disease-recognition";
+				PRODUCT_BUNDLE_IDENTIFIER = com.ibm.watson.developercloud.watsonagriculturecropdiseaserecognition;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
